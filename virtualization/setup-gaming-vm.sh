@@ -1,0 +1,1 @@
+../all-scripts/setup-gaming-vm.sh

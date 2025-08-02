@@ -1,0 +1,1 @@
+../all-scripts/setup-intel-graphics.sh

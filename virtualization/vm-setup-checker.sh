@@ -1,0 +1,1 @@
+../all-scripts/vm-setup-checker.sh

@@ -1,0 +1,1 @@
+../all-scripts/launch-diablo4-wine.sh

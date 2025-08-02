@@ -1,0 +1,1 @@
+../all-scripts/proxmox-post-install.sh

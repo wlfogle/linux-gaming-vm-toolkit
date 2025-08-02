@@ -1,0 +1,1 @@
+../all-scripts/check-vfio-setup.sh
